@@ -294,12 +294,12 @@ class Player extends Actor {
 const schemas = [
     [
         '         ',
-        '   h     ',
+        '   f     ',
         '         ',
-        '       o ',
+        '       oo',
         '@     xxx',
         '         ',
-        'xxx      ',
+        'xxxx     ',
         '         '
     ],
     [
@@ -307,8 +307,8 @@ const schemas = [
         '         ',
         '         ',
         '@       o',
-        '        x',
-        '    x    ',
+        '    o   x',
+        'o   x    ',
         'x        ',
         '         '
     ],
@@ -330,7 +330,7 @@ const schemas = [
         '        xx   ',
         '    xx       ',
         'xx         o ',
-        '           xx'
+        '      xxxxxxx'
     ]
 ];
 const actorDict = {
